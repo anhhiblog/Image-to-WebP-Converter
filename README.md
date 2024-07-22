@@ -8,6 +8,4 @@ Converting images to WebP format can be very efficient in terms of file size red
 ![Image to WebP Converter](https://raw.githubusercontent.com/anhhiblog/ahi/main/image/Image-to-WebP-Converter.webp)
 
 # Refer
-https://www.anhhiblog.net/p/convert-image-to-webp.html
-
 https://www.anhhiblog.net/2024/06/hieu-qua-khi-su-dung-hinh-anh-dinh-dang-webp-cho-blog.html
